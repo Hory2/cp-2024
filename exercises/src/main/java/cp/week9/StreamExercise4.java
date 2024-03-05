@@ -1,10 +1,13 @@
 package cp.week9;
+<<<<<<< HEAD
 
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.stream.Stream;
+=======
+>>>>>>> 8c33d7aa2f6387148532c3e6016e7c26d1ec13b9
 
 public class StreamExercise4
 {
